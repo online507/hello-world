@@ -1,5 +1,5 @@
 # nutrientes
-primer repositorio José ardines para materia programación 2 uip
+
 Qué es nutrición y dietética?
 ¿Qué es la nutrición?
 La nutrición se trata del campo de actuación que deriva de la ciencia y que abarca todos los procesos por los cuales nuestros organismos transforman y utiliza las sustancias químicas (nutrientes) que se encuentran en los distintos alimentos que ingerimos. El cuerpo humano necesita nutrientes para vivir, y para llevar a cabo las siguientes funciones, considerarás fundamentales para el correcto desarrollo humano.
